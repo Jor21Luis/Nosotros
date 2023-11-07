@@ -1,0 +1,31 @@
+.SecNosotros{
+    background-color: rgb(149, 148, 156);
+    margin: 20;
+    height: 30vh;
+    display: flex;
+}
+
+.DivNosotros{
+    background-color: rgb(255, 153, 0);
+    margin: 20;
+    height: 30vh; 
+    width: 50%;
+}
+
+.DivNosotros h2{
+    font-size: 65px;
+    color: rgb(246, 246, 246);
+    margin-top: 10%;
+    text-align: left;
+    margin-left: 5%;
+    
+}
+
+.DivValores {
+    font-size: 65px;
+    color: rgb(246, 246, 246);
+    margin-top: 10%;
+    text-align: left;
+    margin-left: 2%;
+    
+}
